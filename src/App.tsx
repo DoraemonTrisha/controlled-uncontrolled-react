@@ -1,6 +1,6 @@
 import './App.css'
-import ControlComp from './assets/components/controlled/controlComp'
-import UncontrolComp from './assets/components/uncontrolled/uncontrolledComp'
+import ControlComp from './components/controlled/controlComp'
+import UncontrolComp from './components/uncontrolled/uncontrolledComp'
 
 function App() {
   return (
